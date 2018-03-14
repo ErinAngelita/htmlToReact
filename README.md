@@ -1,6 +1,6 @@
 # HTML to React Step By Step
 ******
-You will, as always need to `npm install` in the root of the project file.
+You will, as always need to `npm install` in the root of the project file.  The whole project is in base HTML with jQuery for some styling and the ajax.
 
 There are current two scripts which you will need to run in seperate terminal shells:
   - `npm dev` -> is going to build your files to dist with webpack watch in development mode.
